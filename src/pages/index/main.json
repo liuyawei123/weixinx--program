@@ -1,0 +1,13 @@
+{
+  "usingComponents": {
+    "i-button":        "../../../static/ivew/button/index",
+    "i-icon":          "../../../static/ivew/icon/index",
+    "i-card":          "../../../static/ivew/card/index",
+    "i-message":       "../../../static/ivew//message/index",
+    "i-tab-bar":       "../../../static/ivew/tab-bar/index",
+    "i-tab-bar-item":  "../../../static/ivew/tab-bar-item/index",
+    "i-row":            "../../../static/ivew/row/index",
+    "i-col":             "../../../static/ivew/col/index",
+    "i-input":           "../../../static/ivew/input/index"
+  }
+}
